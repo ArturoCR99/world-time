@@ -34,7 +34,7 @@ const seoul = () => {
     /**Country Flag */
     document
       .querySelector(".img-flag")
-      .setAttribute("src", "https://countryflagsapi.com/svg/kr");
+      .setAttribute("src", "https://flagpedia.net/data/flags/w580/kr.webp");
 
     /**Background Video */
     document.querySelector(".source").src = "./videos/seoul.mp4";
