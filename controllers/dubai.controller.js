@@ -33,7 +33,7 @@ const tokyo = () => {
     /**Country Flag */
     document
       .querySelector(".img-flag")
-      .setAttribute("src", "https://countryflagsapi.com/svg/ae");
+      .setAttribute("src", "https://flagpedia.net/data/flags/w580/ae.webp");
 
     /**Background Video */
     document.querySelector(".source").src = "./videos/dubai1.mp4";
