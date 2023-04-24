@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Por ahora solo muestra información de ciudades como Seoul KR, Abu Dhabi EAU, Monterrey MX</p>
+<p align="left">Por ahora solo muestra información de 3 ciudades como Seoul KR, Abu Dhabi EAU, Monterrey MX</p>
 
 ###
 
